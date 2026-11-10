@@ -1,0 +1,49 @@
+# Datasets
+data/
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.jsonl
+*.zip
+
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Generated feature matrices and fitted preprocessing artifacts
+artifacts/
+reports/
+*.joblib
+*.pkl
+*.pickle
+*.npz
+*.npy
+env/
+.env.*
+.streamlit/secrets.toml
+.coverage
+htmlcov/
+*.log
+
+# Credentials, editor files, dataset databases and build output
+secrets.toml
+kaggle.json
+credentials*.json
+*.pem
+*.key
+*.sqlite
+*.sqlite3
+*.db
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+build/
+dist/
+*.egg-info/
