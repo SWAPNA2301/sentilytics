@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# sentilytics
-=======
 # Sentilytics
 
 A local sentiment analysis app for English product reviews. Enter a review or choose an example to see **Positive / Negative** sentiment and the model's predicted-class probability.
